@@ -1,4 +1,4 @@
-# zero_day
+# 0x00-vagrant
 
 ### Description of the project
 
